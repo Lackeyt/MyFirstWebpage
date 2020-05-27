@@ -8,8 +8,11 @@ h2 {
   text-align: center;
 }
 
+ul {
+  font-weight: 70;
+}
+
 p {
-  font-weight: 700;
   font-family: sans-serif;
 }
 
